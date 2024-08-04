@@ -4,8 +4,8 @@ import java.sql.*;
 public class CRUD_Functions {
 	private static Connection makeConnection() throws Exception{
 		String url = "jdbc:mysql://localhost:3306/lbms";
-		String uname = "root";
-		String password = "TNK_sql_007";
+		String uname = "sql_username";
+		String password = "sql_password";
 		Connection con = DriverManager.getConnection(url, uname, password);
 		return con;
 	}
