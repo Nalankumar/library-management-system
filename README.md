@@ -1,5 +1,5 @@
-# library-management-system
 
+# Library Management System
 The Library Management System is a robust CLI application developed in Java, leveraging MySQL for database management. It facilitates comprehensive CRUD operations to efficiently manage book records. Users can effortlessly add, update, retrieve, and delete book information from the database.
 
 The system also allows users to borrow and return books, ensuring seamless library transactions. This functionality simplifies the borrowing process, making it easy for users to access the resources they need.
@@ -29,7 +29,7 @@ Overall, this application streamlines library management processes, enhancing th
    Open Command Prompt and navigate to the directory containing your Maven project (`pom.xml` file).
 
 ## Installation
-### How to Run a Maven Project in Popular IDEs
+### Steps to Run the project in Popular IDEs
 #### **1. IntelliJ IDEA**
 1. **Import the Maven Project:**
    - Open IntelliJ IDEA.
@@ -93,7 +93,7 @@ Overall, this application streamlines library management processes, enhancing th
 
 Each IDE has specific Maven support, but these general steps should work.
 
-### Steps to Install a Maven Project in CMD
+### Steps to run the project in CMD
 
 1. **Navigate to the project directory:**
    ```bash
