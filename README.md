@@ -7,6 +7,12 @@ The system also allows users to borrow and return books, ensuring seamless libra
 Additionally, the application includes a feature to check the availability of books, providing real-time updates on the status of library resources. This ensures that users are always informed about the availability of books, promoting efficient resource utilization within the library.
 
 Overall, this application streamlines library management processes, enhancing the overall user experience and promoting efficient resource utilization.
+## Table of Contents
+- [Tech Stack](#tech-stack)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [License](#license)
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,maven)](https://skillicons.dev)
 ## Prerequisites
@@ -114,5 +120,12 @@ Each IDE has specific Maven support, but these general steps should work.
 4. **Verify Installation:**
    - Check the `target` directory in your project for the generated files (e.g., `.jar` or `.war`).
    - Verify the artifact is installed in your local Maven repository (`~/.m2/repository`).
+## Contributing
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-name`.
+3. Make your changes.
+4. Push your branch: `git push origin feature-name`.
+5. Create a pull request.
 
----
+## License
+This project is licensed under the [MIT License](LICENSE).
