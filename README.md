@@ -1,13 +1,7 @@
 ![GitHub License](https://img.shields.io/github/license/Nalankumar/library-management-system)
 
 # Library Management System
-The Library Management System is a robust CLI application developed in Java, leveraging MySQL for database management. It facilitates comprehensive CRUD operations to efficiently manage book records. Users can effortlessly add, update, retrieve, and delete book information from the database.
-
-The system also allows users to borrow and return books, ensuring seamless library transactions. This functionality simplifies the borrowing process, making it easy for users to access the resources they need.
-
-Additionally, the application includes a feature to check the availability of books, providing real-time updates on the status of library resources. This ensures that users are always informed about the availability of books, promoting efficient resource utilization within the library.
-
-Overall, this application streamlines library management processes, enhancing the overall user experience and promoting efficient resource utilization.
+The Library Management System is a Java-based CLI application utilizing MySQL for database management. It supports CRUD operations for managing book records, enables borrowing and returning books, and provides real-time availability updates. This system streamlines library processes, simplifying transactions and enhancing the user experience by efficiently managing resources and information.
 ## Table of Contents
 - [Tech Stack](#tech-stack)
 - [Prerequisites](#prerequisites)
