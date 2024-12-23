@@ -9,7 +9,10 @@ The Library Management System is a Java-based CLI application utilizing MySQL fo
 - [Contributing](#contributing)
 - [License](#license)
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,maven)](https://skillicons.dev)
+- Java
+- MySQL
+- Maven
+
 ## Prerequisites
 1. **Ensure Maven is installed:**
    Verify Maven is installed and added to the `PATH`.
